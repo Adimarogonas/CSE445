@@ -1,0 +1,5 @@
+/Users/adima/Projects/ProducerAndConsumer/ProducerAndConsumer/obj/Debug/net5.0/ProducerAndConsumer.csprojAssemblyReference.cache
+/Users/adima/Projects/ProducerAndConsumer/ProducerAndConsumer/obj/Debug/net5.0/ProducerAndConsumer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adima/Projects/ProducerAndConsumer/ProducerAndConsumer/obj/Debug/net5.0/ProducerAndConsumer.AssemblyInfoInputs.cache
+/Users/adima/Projects/ProducerAndConsumer/ProducerAndConsumer/obj/Debug/net5.0/ProducerAndConsumer.AssemblyInfo.cs
+/Users/adima/Projects/ProducerAndConsumer/ProducerAndConsumer/obj/Debug/net5.0/ProducerAndConsumer.csproj.CoreCompileInputs.cache
